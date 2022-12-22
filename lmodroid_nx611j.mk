@@ -30,9 +30,9 @@ PRODUCT_COMPRESSED_APEX := false
 $(call inherit-product, device/nubia/nx611j/device.mk)
 
 # Inherit some common lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/lmodroid/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_nx611j
+PRODUCT_NAME := lmodroid_nx611j
 PRODUCT_BRAND := nubia
 PRODUCT_DEVICE := nx611j
 PRODUCT_MANUFACTURER := nubia

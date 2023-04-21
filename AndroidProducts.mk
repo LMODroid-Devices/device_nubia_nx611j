@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nx611j.mk
+    $(LOCAL_DIR)/lmodroid_nx611j.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_nx611j-user \
-    lineage_nx611j-userdebug \
-    lineage_nx611j-eng
+    lmodroid_nx611j-user \
+    lmodroid_nx611j-userdebug \
+    lmodroid_nx611j-eng
